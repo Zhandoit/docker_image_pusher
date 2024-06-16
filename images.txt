@@ -5,5 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mikolatero/vlmcsd
-vaultwarden/server
-dani-garcia/vaultwarden
+vaultwarden/server:latest
