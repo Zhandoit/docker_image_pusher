@@ -8,4 +8,4 @@ mikolatero/vlmcsd
 vaultwarden/server:latest
 gdy666/lucky
 wiznote/wizserver
-Nriver/trilium-translation
+nriver/trilium-cn
