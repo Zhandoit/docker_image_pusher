@@ -9,3 +9,4 @@ vaultwarden/server:latest
 gdy666/lucky
 wiznote/wizserver
 nriver/trilium-cn
+2fauth/2fauth
